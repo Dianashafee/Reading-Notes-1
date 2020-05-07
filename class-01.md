@@ -162,6 +162,7 @@ comment** to ther code to cheak if the browser was IE8 or older, ***so the code 
 so there is tow kinds of **elements** on HTML the :
 
 ***1. Blocked*** (witch is some elements witch always appear to start on a new line in the browser window) Like: (capture 4c)
+
 ***2. Inline*** (witch is some elements will always appear to continue on the same line) Like: 
 
 ![0b](https://3madov-77.github.io/learning-journal/New%20folder/Capture%205c.PNG)
@@ -261,7 +262,7 @@ to make it simple to you this pic will show you simply how the map looks like:
 **sketchs** helps you to give a small picture to your client about what the weeb design will look like
 
 ### Where you can **sketchs** ?
-***NO*** need for any compliments it all what you can use is 
+***NO*** need for any compliments it all what you can use is :
 
 ![skitch](https://3madov-77.github.io/reading-notes/Resorses/Capture01a-2.PNG)
 
@@ -320,14 +321,15 @@ A line can be drawn around the border of the group or between it and its neighbo
 - ## Choose navigation design wisely :
 witch i like to call it **The Concise Ways**, wich must be quick and easy to read and **descriptive**, you can make alot of navigation bars (first nav second nav....etc) but be carfule it must be maximum 8 links each bar,
 
- ### and remamber to make it > `Context` , `Interactive` , `Consistent`
+### and always remamber to make it > `Context` , `Interactive` , `Consistent`
 
- <br>
 <br>
+<br>
+<hr>
 
 I think its enogh to 4 you today..
 
-always you can contact me [Here](https://github.com/3madov-77)
+**always** you can contact me [Here](https://github.com/3madov-77)
 
 <br>
 <br>

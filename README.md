@@ -1,7 +1,10 @@
-## Welcome to My Reading-notes Pages
+### Welcome to My Reading-notes Pages
 
 # Who Am i :
 Im a student in LTUC cooding course my name is Emad alzoubi working on improve my skils in web development and writng Repos..
+
+<br>
+<hr>
 
 # My ToDo List For Next Few Days :
 
@@ -12,35 +15,36 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 - [x] Keep being **Growth Mindset** person
 
 <br>
-<br>
 <hr>
-<br>
 
 # My Last Topics :
+<br>
 
 |           Topic                |                          The link to get                         |
 | ------------------------------ |:----------------------------------------------------------------:|
 | HTML In Few Lines (Read01) | https://3madov-77.github.io/reading-notes/class-01 *[here](https://3madov-77.github.io/reading-notes/class-01)|
 
 <br>
+<br>
+
 
 *And remember as i always say:*
 >## "Its hard to be success, But its not imposible."
 
 <br>
-<hr>
 <br>
+<hr>
 
 ## You can always contact me by :
 
  ***GH  ON :***
 
-  ---------------------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me" )  ---------------------------------------------------------
+  -------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me" )  -------------------------------------------
 [![alt text](https://3madov-77.github.io/reading-notes/Resorses/GH-logo.PNG "Click ME" )](https://github.com/3madov-77)
  ----------------------------------------------------------------------------------------------------------------------------
 
 ***Or Email Me ON :***
 
- ---------------------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me") ---------------------------------------------------------
-[![alt text](https://3madov-77.github.io/reading-notes/Resorses/Gmail-logo.PNG "Click ME")](Emadzxy7@gmail.com)
+-------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me") -------------------------------------------
+[![alt text](https://logodix.com/logo/4405.gif "Click ME")](Emadzxy7@gmail.com)
  ----------------------------------------------------------------------------------------------------------------------------
