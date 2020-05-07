@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to My Reading-notes Pages
 
-You can use the [editor on GitHub](https://github.com/3madov-77/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Who Am i :
+Im a student in LTUC cooding course my name is Emad alzoubi working on improve my skils in web development and writng Repos..
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# My ToDo List For Next Few Days :
 
-### Markdown
+- [ ] Attend to all my clases
+- [x] Finish my Assignments
+- [ ] Push my commits to GitHub
+- [ ] Learn more about ***WD***
+- [x] Keep being **Growth Mindset** person
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
+<br>
+<hr>
+<br>
 
-```markdown
-Syntax highlighted code block
+# My Last Topics :
 
-# Header 1
-## Header 2
-### Header 3
+|           Topic                |                          The link to get                         |
+| ------------------------------ |:----------------------------------------------------------------:|
+| HTML In Few Lines (Read01) | https://3madov-77.github.io/reading-notes/class-01 *[here](https://3madov-77.github.io/reading-notes/class-01)|
 
-- Bulleted
-- List
+<br>
 
-1. Numbered
-2. List
+*And remember as i always say:*
+>## "Its hard to be success, But its not imposible."
 
-**Bold** and _Italic_ and `Code` text
+<br>
+<hr>
+<br>
 
-[Link](url) and ![Image](src)
-```
+## You can always contact me by :
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ ***GH  ON :***
 
-### Jekyll Themes
+  ---------------------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me" )  ---------------------------------------------------------
+[![alt text](https://3madov-77.github.io/reading-notes/Resorses/GH-logo.PNG "Click ME" )](https://github.com/3madov-77)
+ ----------------------------------------------------------------------------------------------------------------------------
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3madov-77/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+***Or Email Me ON :***
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ---------------------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me") ---------------------------------------------------------
+[![alt text](https://3madov-77.github.io/reading-notes/Resorses/Gmail-logo.PNG "Click ME")](Emadzxy7@gmail.com)
+ ----------------------------------------------------------------------------------------------------------------------------
