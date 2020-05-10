@@ -3,7 +3,7 @@
 # Who Am i :
 Im a student in LTUC cooding course my name is Emad alzoubi working on improve my skils in web development and writng Repos..<br>
  **want to know more?** 
- ***[Click Me](https://3madov-77.github.io/side-projects/Me/index.html)***
+ ***[Click Me](https://3madov-77.github.io/Side-Projects/Me/index.html)***
 <br>
 <hr>
 
@@ -23,7 +23,7 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 
 |           Topic                |                          The link to get                         |
 | ------------------------------ |:----------------------------------------------------------------:|
-| HTML In Few Lines (Read01) | https://3madov-77.github.io/reading-notes/class-01 *[here](https://3madov-77.github.io/reading-notes/class-01)|
+| HTML In Few Lines (Read01) | https://3madov-77.github.io/Reading-Notes/class-01 *[here](https://3madov-77.github.io/reading-notes/class-01)|
 
 <br>
 <br>
