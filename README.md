@@ -1,8 +1,9 @@
 ### Welcome to My Reading-notes Pages
 
 # Who Am i :
-Im a student in LTUC cooding course my name is Emad alzoubi working on improve my skils in web development and writng Repos..
-
+Im a student in LTUC cooding course my name is Emad alzoubi working on improve my skils in web development and writng Repos..<br>
+ **want to know more?** 
+ ***[Click Me](https://3madov-77.github.io/side-projects/Me/index.html)***
 <br>
 <hr>
 
