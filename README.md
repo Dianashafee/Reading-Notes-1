@@ -23,7 +23,7 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 
 |           Topic                |                          The link to get                         |
 | ------------------------------ |:----------------------------------------------------------------:|
-| HTML In Few Lines (Read01) | https://3madov-77.github.io/Reading-Notes/class-01 *[here](https://3madov-77.github.io/reading-notes/class-01)|
+| HTML In Few Lines (Read01) | https://3madov-77.github.io/Reading-Notes/class-01 *[here](https://3madov-77.github.io/Reading-Notes/class-01)|
 
 <br>
 <br>
@@ -40,16 +40,16 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 
  ***GH  ON :***
 
---------------------------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me" )--------------------------------------------------------------
+------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me" )----------------------------------------------------------------------------------
 
-[![alt text](https://3madov-77.github.io/Reading-Notes/Resorses/GH-logo.PNG "Click ME" )](https://github.com/3madov-77)
+[![alt text](https://3madov-77.github.io/Reading-Notes/Resorses/GH-logo.PNG "Click ME" )](https://3madov-77.github.io/Side-Projects/Me/index.html)
 
 ----------------------------------------------------------------------------------------------------------------------------
 <br>
 
 ***Or Email Me ON :***
 
---------------------------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me")--------------------------------------------------------------
+---------------------------------------------------------![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Conact me")-------------------------------------------------------------------
 
 [![alt text](https://logodix.com/logo/4405.gif "Click ME")](mailto:emadzxy7@gmail.com?subject=Bit%20of%20help)
 
