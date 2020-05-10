@@ -22,7 +22,7 @@ so lets begin with some talking about
 # HTML :
 its ***"Hypertext Markup Language"*** it uses to describe the documents (webpages) to your browser and rule how to show it, you can counsder it as the *bones* of the pages, it incliudes **Elements** that had charcters inside contianers called "**TAGS**" that made up of two **tags** 'opening and closing one' take un example how HTML code looks like:
 
-![pic](https://3madov-77.github.io/reading-notes/Resorses/Capture01a-1.PNG)
+![pic](https://3madov-77.github.io/Reading-Notes/Resorses/Capture01a-1.PNG)
 
 <br>
 <br>
@@ -264,7 +264,7 @@ to make it simple to you this pic will show you simply how the map looks like:
 ### Where you can **sketchs** ?
 ***NO*** need for any compliments it all what you can use is :
 
-![skitch](https://3madov-77.github.io/reading-notes/Resorses/Capture01a-2.PNG)
+![skitch](https://3madov-77.github.io/Reading-Notes/Resorses/Capture01a-2.PNG)
 
 There are also online sketchs tools that can helps you like:
 [gomockingbird](http://gomockingbird.com) OR [lovelycharts](http://lovelycharts.com)
