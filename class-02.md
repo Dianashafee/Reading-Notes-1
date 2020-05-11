@@ -246,7 +246,7 @@ witch cheacks an condition if it **True** then the first block of coding excuted
 but if the condition is **False** then the second block of coding excuted
 and you can use it like:
 
-![cap](https://3madov-77.github.io/Reading-Notes/Resorses/Capture03-4.PNG)
+![cap](https://3madov-77.github.io/Reading-Notes/Resorses/Capture02-4.PNG)
 
 <br>
 <br>

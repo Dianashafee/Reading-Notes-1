@@ -23,7 +23,8 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 
 |           Topic                |                          The link to get                         |
 | ------------------------------ |:----------------------------------------------------------------:|
-| HTML In Few Lines (Read01) | https://3madov-77.github.io/Reading-Notes/class-01 *[here](https://3madov-77.github.io/Reading-Notes/class-01)|
+| HTML In Few Lines (Read01) | https://3madov-77.github.io/Reading-Notes/class-01 *[HERE](https://3madov-77.github.io/Reading-Notes/class-01)|
+| HTML CSS JS In Parm Lines (Read02) | https://3madov-77.github.io/Reading-Notes/class-02 *[HERE](https://3madov-77.github.io/Reading-Notes/class-02)|
 
 <br>
 <br>
