@@ -1,4 +1,8 @@
 ## no need to an intro!..
+just go cheak :
+[HTML In Few Lines (Read01)](https://3madov-77.github.io/Reading-Notes/class-01) & [HTML CSS JS In Parm Lines (Read02)](https://3madov-77.github.io/Reading-Notes/class-02)
+
+<br>
 
 # HTML Lists:
 HTML provide 3 difreent kinds of lists wich is:
