@@ -23,10 +23,11 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 
 |           Topic                |                          The link to get                         |
 | ------------------------------ |:----------------------------------------------------------------:|
-| HTML In Few Lines (Read01) | https://3madov-77.github.io/Reading-Notes/class-01 *[HERE](https://3madov-77.github.io/Reading-Notes/class-01)|
-| HTML CSS JS In Parm Lines (Read02) | https://3madov-77.github.io/Reading-Notes/class-02 *[HERE](https://3madov-77.github.io/Reading-Notes/class-02)|
-| lists & Boxes Or Looping (Read03) | https://3madov-77.github.io/Reading-Notes/class-03 *[HERE](https://3madov-77.github.io/Reading-Notes/class-03)|
-| Links, Layouts and Functions (Read4) | https://3madov-77.github.io/Reading-Notes/class-04 *[HERE](https://3madov-77.github.io/Reading-Notes/class-04)|
+| HTML In Few Lines (Read01) | https://3madov-77.github.io/Reading-Notes/class-01 *[HERE](https://3madov-77.github.io/Reading-Notes/class-01) |
+| HTML CSS JS In Parm Lines (Read02) | https://3madov-77.github.io/Reading-Notes/class-02 *[HERE](https://3madov-77.github.io/Reading-Notes/class-02) |
+| lists & Boxes Or Looping (Read03) | https://3madov-77.github.io/Reading-Notes/class-03 *[HERE](https://3madov-77.github.io/Reading-Notes/class-03) |
+| Links, Layouts and Functions (Read4) | https://3madov-77.github.io/Reading-Notes/class-04 *[HERE](https://3madov-77.github.io/Reading-Notes/class-04) |
+| CSS Betwin Images, Colors and Text (Read05) | https://3madov-77.github.io/Reading-Notes/class-05 *[HERE](https://3madov-77.github.io/Reading-Notes/class-05) |
 
 <br>
 <br>
