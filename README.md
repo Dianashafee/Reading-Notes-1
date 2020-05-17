@@ -28,6 +28,7 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 | lists & Boxes Or Looping (Read03) | https://3madov-77.github.io/Reading-Notes/class-03 *[HERE](https://3madov-77.github.io/Reading-Notes/class-03) |
 | Links, Layouts and Functions (Read4) | https://3madov-77.github.io/Reading-Notes/class-04 *[HERE](https://3madov-77.github.io/Reading-Notes/class-04) |
 | CSS Betwin Images, Colors and Text (Read05) | https://3madov-77.github.io/Reading-Notes/class-05 *[HERE](https://3madov-77.github.io/Reading-Notes/class-05) |
+| Objects & DOM (Read06) | https://3madov-77.github.io/Reading-Notes/class-06 *[HERE](https://3madov-77.github.io/Reading-Notes/class-06) |
 
 <br>
 <br>
