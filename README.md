@@ -31,6 +31,7 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 | Objects & DOM (Read06) | https://3madov-77.github.io/Reading-Notes/class-06 *[HERE](https://3madov-77.github.io/Reading-Notes/class-06) |
 | Domain Modeling & Objects (Read07) | https://3madov-77.github.io/Reading-Notes/class-07 *[HERE](https://3madov-77.github.io/Reading-Notes/class-07) |
 | Pure CSS Layout (Read08) | https://3madov-77.github.io/Reading-Notes/class-08 *[HERE](https://3madov-77.github.io/Reading-Notes/class-08) |
+| Forms & Styling (Read09) | https://3madov-77.github.io/Reading-Notes/class-09 *[HERE](https://3madov-77.github.io/Reading-Notes/class-09) |
 
 <br>
 <br>
