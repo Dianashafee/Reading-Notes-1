@@ -33,6 +33,7 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 | Pure CSS Layout (Read08) | https://3madov-77.github.io/Reading-Notes/class-08 *[HERE](https://3madov-77.github.io/Reading-Notes/class-08) |
 | Forms & Styling (Read09) | https://3madov-77.github.io/Reading-Notes/class-09 *[HERE](https://3madov-77.github.io/Reading-Notes/class-09) |
 | Debuging & Erorrs (Read10) | https://3madov-77.github.io/Reading-Notes/class-10 *[HERE](https://3madov-77.github.io/Reading-Notes/class-10) |
+| Media IN Webpage (Read11) | https://3madov-77.github.io/Reading-Notes/class-11 *[HERE](https://3madov-77.github.io/Reading-Notes/class-11) |
 
 <br>
 <br>
