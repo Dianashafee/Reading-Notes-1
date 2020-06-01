@@ -34,6 +34,7 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 | Forms & Styling (Read09) | https://3madov-77.github.io/Reading-Notes/class-09 *[HERE](https://3madov-77.github.io/Reading-Notes/class-09) |
 | Debuging & Erorrs (Read10) | https://3madov-77.github.io/Reading-Notes/class-10 *[HERE](https://3madov-77.github.io/Reading-Notes/class-10) |
 | Media IN Webpage (Read11) | https://3madov-77.github.io/Reading-Notes/class-11 *[HERE](https://3madov-77.github.io/Reading-Notes/class-11) |
+| Canvas & ChartJS (Read12) | https://3madov-77.github.io/Reading-Notes/class-12 *[HERE](https://3madov-77.github.io/Reading-Notes/class-12) |
 
 <br>
 <br>
