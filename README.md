@@ -36,6 +36,8 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 | Media IN Webpage (Read11) | https://3madov-77.github.io/Reading-Notes/class-11 *[HERE](https://3madov-77.github.io/Reading-Notes/class-11) |
 | Canvas & ChartJS (Read12) | https://3madov-77.github.io/Reading-Notes/class-12 *[HERE](https://3madov-77.github.io/Reading-Notes/class-12) |
 | Local Storage 4 Web apps (Read13) | https://3madov-77.github.io/Reading-Notes/class-13 *[HERE](https://3madov-77.github.io/Reading-Notes/class-13) |
+| Transitions and Animations (Read14a) | https://3madov-77.github.io/Reading-Notes/class-14a *[HERE](https://3madov-77.github.io/Reading-Notes/class-14a) |
+| What Google Learned About Teams (Read14b) | https://3madov-77.github.io/Reading-Notes/class-14b *[HERE](https://3madov-77.github.io/Reading-Notes/class-14b) |
 
 <br>
 <br>
