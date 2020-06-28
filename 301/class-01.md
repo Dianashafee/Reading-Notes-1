@@ -50,3 +50,18 @@ States are generally applied to the same element as a layout rule or applied to 
 ## 5. Theme:
 Theme Rules aren’t used as often within a project and because of that I was quite reluctant to include them as their own category. Some projects do have a need for them, though, as we did when working on Yahoo! Mail.
 It is probably self-evident but a theme defines colours and images that give your application or site its look and feel. Separating the theme out into its own set of styles allows for those styles to be easily redefined for alternate themes. The need for theming within a project is necessary when you want the user to receive an alternate skin that provides some cosmetic alterations.
+
+<br>
+<br>
+<hr>
+
+I think its enogh to 4 you today..
+
+**always** you can contact me [Here](https://3madov-77.github.io/Side-Projects/Me/index.html)
+
+<br>
+<br>
+<br>
+<br>
+
+[`Back To The Main Page`](https://3madov-77.github.io/Reading-Notes/)
