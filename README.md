@@ -50,6 +50,7 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 | ------------------------------ |:----------------------------------------------------------------:|
 | Responsive & SMACSS (Read01) | https://3madov-77.github.io/Reading-Notes/301/class-01 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-01) |
 | JQuery In Lines (Read02) | https://3madov-77.github.io/Reading-Notes/301/class-02 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-02) |
+| FlexBox & Mustash (Read03) | https://3madov-77.github.io/Reading-Notes/301/class-03 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-03) |
 
 
 <br>
