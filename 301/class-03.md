@@ -22,3 +22,16 @@ or with NPM:
 
 # flexbox
 Since flexbox is a whole module and not a single property, it involves a lot of things including its whole set of properties. Some of them are meant to be set on the container (parent element, known as “flex container”) whereas the others are meant to be set on the children (said “flex items”).
+
+<br>
+<br>
+<hr>
+
+**Always** you can contact me [Here](https://3madov-77.github.io/Side-Projects/Me/index.html)
+
+<br>
+<br>
+<br>
+<br>
+
+[`Back To The Main Page`](https://3madov-77.github.io/Reading-Notes/)
