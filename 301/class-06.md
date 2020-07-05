@@ -17,7 +17,7 @@ simply it can be used for anything from bundling your JavaScript files and depen
 In very simplistic terms, when you connect to a traditional server, such as Apache, it will spawn a new thread to handle the request. In a language such as PHP or Ruby, any subsequent I/O operations (for example, interacting with a database) block the execution of your code until the operation has completed. That is, the server has to wait for the database lookup to complete before it can move on to processing the result. If new requests come in while this is happening, the server will spawn new threads to deal with them. This is potentially inefficient, as a large number of threads can cause a system to become sluggish — and, in the worst case, for the site to go down. The most common way to support more connections is to add more servers, Node.js, however, is single-threaded. It’s also **event-driven**, which means that everything that happens in Node is in reaction to an event!
  Node also uses the **libuv** library to implement this asynchronous (that is, non-blocking) behavior.
 
-![cap](../Resorses/301capture05-1.PNG)
+![cap](https://github.com/3madov-77/Reading-Notes/blob/master/Resorses/301capture05-1.png?raw=true)
 
 ## How To Install:
 go ahed & check which version you have installed on your system, type `npm -v`
