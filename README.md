@@ -54,6 +54,7 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 | Grid & REGEX (Read04) | https://3madov-77.github.io/Reading-Notes/301/class-04 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-04) |
 | Heroku (Read05) | https://3madov-77.github.io/Reading-Notes/301/class-05 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-05) |
 | Node.js 4 Beginners (Read06) | https://3madov-77.github.io/Reading-Notes/301/class-06 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-06) |
+| What Google Learned About Teams (Read07) | https://3madov-77.github.io/Reading-Notes/301/class-07 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-07) |
 
 
 <br>
