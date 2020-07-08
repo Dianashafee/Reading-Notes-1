@@ -28,11 +28,11 @@ WHERE condition
 ```
 More complex clauses can be constructed by joining numerous AND or OR logical keywords (ie. num_wheels >= 4 AND doors <= 2). And below are some useful operators that you can use for numerical data (ie. integer or floating point):
 
-![cap](https://github.com/3madov-77/Reading-Notes/blob/master/Resorses/301Capture08-1)
+![cap](https://github.com/3madov-77/Reading-Notes/blob/master/Resorses/301Capture08-1.PNG)
 
 >> SQL doesn't require you to write the keywords all capitalized, but as a convention, it helps people distinguish SQL keywords from column and tables names, and makes the query easier to read.
 
-![cap](https://github.com/3madov-77/Reading-Notes/blob/master/Resorses/301Capture08-2)
+![cap](https://github.com/3madov-77/Reading-Notes/blob/master/Resorses/301Capture08-2.PNG)
 
 while most database implementations are quite efficient when using these operators, full-text search is best left to dedicated libraries like Apache Lucene or Sphinx. These libraries are designed specifically to do full text search, and as a result are more efficient and can support a wider variety of search features including internationalization and advanced queries..
 
