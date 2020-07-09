@@ -56,7 +56,7 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 | Node.js 4 Beginners (Read06) | https://3madov-77.github.io/Reading-Notes/301/class-06 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-06) |
 | What Google Learned About Teams (Read07) | https://3madov-77.github.io/Reading-Notes/301/class-07 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-07) |
 | SQL The Essintals (Read08) | https://3madov-77.github.io/Reading-Notes/301/class-08 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-08) |
-
+| Refactoring (Read09) | https://3madov-77.github.io/Reading-Notes/301/class-09 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-09) |
 
 <br>
 <br>
