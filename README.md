@@ -59,7 +59,7 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 | Refactoring (Read09) | https://3madov-77.github.io/Reading-Notes/301/class-09 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-09) |
 | The Call stack (Read10) | https://3madov-77.github.io/Reading-Notes/301/class-10 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-10) |
 | EJS (Read11) | https://3madov-77.github.io/Reading-Notes/301/class-11 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-11) |
-
+| EJS2 (Read12) | https://3madov-77.github.io/Reading-Notes/301/class-12 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-12) |
 <br>
 <br>
 
