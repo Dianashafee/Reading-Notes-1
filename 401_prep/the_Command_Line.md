@@ -123,7 +123,7 @@ and its all in Three persmissions and three groups of people:
 * Shorthand Premissions:
 you can simply replace the letters with numbers debends on binary & 8 bits system (0,1 & 0-7) based on this colomn:
 
-![cap](./capture_cmd.PNG)
+![cap](./capture_cmd.png)
 
 ex:
 ```
@@ -202,7 +202,7 @@ it used like:
 4. Examine your output
 * the basic bulding blocks:
 
-![cap](./capture_cmd2.PNG)
+![cap](./capture_cmd2.png)
 
 <br>
 <hr>
@@ -230,7 +230,7 @@ If we redirect to a file which does not exist, it will be created automatically 
 STDERR is stream number 2 and we may use these numbers to identify the streams. If we place a number before the > operator then it will redirect that stream (if we don't use a number, like we have been doing so far, then it defaults to stream 1)...
 ex of STDERR:
 
-![cap](./capture_cmd3.PNG)
+![cap](./capture_cmd3.png)
 
 >> it also could be like `ls -l video.mpg blah.foo > myoutput 2>&1` so it will save the output and the errors to the same file..
 * Piping:
@@ -324,7 +324,7 @@ it used to save the output of a command to a variable and the mechanism we use f
 * The command `read` is asking the user to input..
 
  >> If statements actually make use of a command called test
- 
+
 ```
 if [ ] then else fi
 Perform basic conditional logic
