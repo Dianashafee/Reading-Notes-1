@@ -1,24 +1,26 @@
 ### Welcome to My Reading-notes Pages
 
 # Who Am i :
-Im a student in LTUC cooding course my name is Emad alzoubi working on improve my skils in web development and writng Repos..<br>
+Im a student in **LTUC** cooding course my name is Emad alzoubi working on improve my skils in web development and writng Repos..<br>
  **want to know more?** 
  ***[Click Me](https://3madov-77.github.io/Side-Projects/Me/index.html)***
+
 <br>
 <hr>
 
 # My ToDo List For Next Few Days :
 
 - [ ] Attend to all my clases
-- [x] Finish my Assignments
-- [ ] Push my commits to GitHub
-- [ ] Learn more about ***WD***
-- [x] Keep being **Growth Mindset** person
+- [ ] Finish my Assignments
+- [x] Keep pushing Topics to my GitHub
+- [x] Learn more about ***WD***
+- [x] Keep being **Growth Mindset** person💪
 
 <br>
 <hr>
 
 # My Last Topics in 201 :
+
 <br>
 
 |           Topic                |                          The link to get                         |
@@ -54,7 +56,7 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 | Grid & REGEX (Read04) | https://3madov-77.github.io/Reading-Notes/301/class-04 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-04) |
 | Heroku (Read05) | https://3madov-77.github.io/Reading-Notes/301/class-05 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-05) |
 | Node.js 4 Beginners (Read06) | https://3madov-77.github.io/Reading-Notes/301/class-06 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-06) |
-| What Google Learned About Teams (Read07) | https://3madov-77.github.io/Reading-Notes/301/class-07 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-07) |
+| What Google Learned About Teams (Read07) | https://3madov-77.github.io/Reading-Notes/301/class-07 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-07) 
 | SQL The Essintals (Read08) | https://3madov-77.github.io/Reading-Notes/301/class-08 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-08) |
 | Refactoring (Read09) | https://3madov-77.github.io/Reading-Notes/301/class-09 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-09) |
 | The Call stack (Read10) | https://3madov-77.github.io/Reading-Notes/301/class-10 *[HERE](https://3madov-77.github.io/Reading-Notes/301/class-10) |
@@ -67,8 +69,20 @@ Im a student in LTUC cooding course my name is Emad alzoubi working on improve m
 <br>
 <br>
 
-***And remember as i always say:***
->## "Its hard to be success, But its not imposible."
+## What about some of useful Topics!?:
+
+|           Topic                |                          The link to get                         |
+| ------------------------------ |:----------------------------------------------------------------:|
+| the_Command_Line (401_Prep) | https://3madov-77.github.io/Reading-Notes/401_prep/the_Command_Line *[HERE](https://3madov-77.github.io/Reading-Notes/401_prep/the_Command_Line) |
+| Grouth_Mindset (401_Prep) | https://3madov-77.github.io/Reading-Notes/401_prep/Grouth_Mindset *[HERE](https://3madov-77.github.io/Reading-Notes/401_prep/Grouth_Mindset) |
+
+<br>
+<br>
+
+
+***& always remember :***
+
+> ## "Its hard to be success, But its not imposible.."
 
 <br>
 <br>
