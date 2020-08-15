@@ -122,7 +122,9 @@ and its all in Three persmissions and three groups of people:
 * To change permissions on a file or directory we use a command called chmod like: `chmod [permissions] [path]`
 * Shorthand Premissions:
 you can simply replace the letters with numbers debends on binary & 8 bits system (0,1 & 0-7) based on this colomn:
-![cap](capture_cmd.PNG)
+
+![cap](./capture_cmd.PNG)
+
 ex:
 ```
 ~$ chmod 240 frog.png
@@ -199,7 +201,8 @@ it used like:
 3. Break your pattern down into individual components and test each of these individually
 4. Examine your output
 * the basic bulding blocks:
-![cap](capture_cmd2.PNG)
+
+![cap](./capture_cmd2.PNG)
 
 <br>
 <hr>
@@ -226,7 +229,9 @@ If we redirect to a file which does not exist, it will be created automatically 
 * STDERR:
 STDERR is stream number 2 and we may use these numbers to identify the streams. If we place a number before the > operator then it will redirect that stream (if we don't use a number, like we have been doing so far, then it defaults to stream 1)...
 ex of STDERR:
-![cap](capture_cmd3.PNG)
+
+![cap](./capture_cmd3.PNG)
+
 >> it also could be like `ls -l video.mpg blah.foo > myoutput 2>&1` so it will save the output and the errors to the same file..
 * Piping:
 it is the mechanism for sending data from one program to another, it use the operator (|), and what it dose do is feed the output from the program on the left as input to the program on the right..
@@ -261,24 +266,32 @@ or you can simply use `ctrl + z` :to Pause the current foreground process and mo
 
 # 13- Scripting:
 witch is computing terms is similar to a script in theatrical terms. It is a document stating what to say and do. Here, instead of the script being read and acted upon by a person, it is read and acted upon (or executed) by the computer..
+
 >> Anything you can run on the command line you may place into a script and they will behave exactly the same
+
 * The Shebang:
-The very first line of a script should tell the system which interpreter should be used on this file. It is important that this is the very first line of the script. It is also important that there are no spaces. The first two characters #! (the shebang) tell the system that directly after it will be a path to the interpreter to be used. If we don't know where our interpreter is located then we may use a program called which to find out:
-`which <program>`
+The very first line of a script should tell the system which interpreter should be used on this file. It is important that this is the very first line of the script. It is also important that there are no spaces. The first two characters #! (the shebang) tell the system that directly after it will be a path to the interpreter to be used. If we don't know where our interpreter is located then we may use a program called which to find out: `which <program>`
+
 * The Name:
 Linux is an extensionless system. That means we may call our script whatever we like and it will not affect it's running in any way. While it is typical to put a .sh extension on our scripts, this is purely for convenience and is not required
+
 * Comments:
 use `#` in start of any line to make it comment
+
 * Why the ./ ? :
 Linux is set up the way it is, largely for logical reasons. This peculiarity actually makes the system a bit safer for us. First a bit of background knowledge. When we type a command on the command line, the system runs through a preset series of directories, looking for the program we specified. We may find out these directories by looking at a particular variable 'PATH', 
 The system will look in the first directory and if it finds the program it will run it, if not it will check the second directory and so on. Directories are separated by a colon ( : ), The system will not look in any directories apart from these, it won't even look in your current directory. We can override this behaviour however by supplying a path. When we do so the system effectively says "Ah, you've told me where to look to find the script so I'll ignore the PATH and go straight to the location you've specified instead." You'll remember from section 2 (Basic Navigation) that a full stop ( . ) represents our current directory, so when we say ./myscript.sh we are actually tellling the system to look in our current directory to find the script. We could have used an absolute path as well ( /home/ryan/linuxtutorialwork/myscript.sh ) and it would have worked exactly the same, or a relative path if we are not currently in the same directory as the script ( ../linuxtutorialwork/myscript.sh ), If it were possible to run scripts in your current directory without this mechanism then it would be easy, for instance, for someone to create a malicious script in a particular directory and name it ls or something similar. People would inadventently run it if they wanted to see what was in that directory!!((thats realy good point..!!))
+
 * Permissions:
 A script must have the execute permission before we may run it (even if we are the owner of the file). For safety reasons, you don't have execute permission by default so you have to add it. A good command to run to ensure your script is set up right is `chmod 755 <script>`
 
 - Variables:
 A variable is a container for a simple piece of data
+
 * When we set a variable, we specify it's name, followed directly by an equals sign ( = ) followed directly by the value. (So, no spaces on either side of the = sign.)
+
 * When we refer to a variable, we must place a dollar sign ( $ ) before the variable name, ex:
+
 ```
 ~$ cat variableexample.sh
 #!/bin/bash
@@ -291,20 +304,27 @@ echo Hello $name
 ~$ ./variableexample.sh
 Hello Ryan
 ```
+
 * Command line arguments and More:
+
 When we run a script, there are several variables that get set automatically for us. Here are some of them:
+
 1. '$0' - The name of the script
 2. '$1 - $9' - Any command line arguments given to the script. $1 is the first argument, $2 the second and so on...
 3. '$#' - How many command line arguments were given to the script
 4. '$*' - All of the command line arguments
+
 >> `echo` == print
+
 * Back ticks:
 it used to save the output of a command to a variable and the mechanism we use for that is the backtick ( ` )..
 
 - If Statements:
 * we use `fi` To indicate the end of an if statement we have a single line which has fi (if backwards) on it
 * The command `read` is asking the user to input..
+
  >> If statements actually make use of a command called test
+ 
 ```
 if [ ] then else fi
 Perform basic conditional logic
